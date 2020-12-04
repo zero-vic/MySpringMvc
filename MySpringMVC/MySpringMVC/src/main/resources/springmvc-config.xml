@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+<!--    扫描controller 包 service 包-->
+    <component-scan base-package="com.xy.meeting.controller,com.xy.meeting.service,com.xy.meeting.dao"></component-scan>
+
+</beans>
